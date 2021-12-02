@@ -50,6 +50,13 @@ main {
     margin-right: auto
 }
 
+.screenshot {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
 .homepage-link {
     text-align: center;
     color:blue
