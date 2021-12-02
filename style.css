@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #0080ff;
+    display: block;
+    padding: 5px 7px;
+}
+
+
+img.header-logo {
+    width: 300px;
+    height: auto;
+}
