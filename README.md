@@ -14,9 +14,9 @@ My friend said something about saving files in his USB drive and then make a dow
 
 The name was Catload (short for Catdownload). Yeah it was pretty dumb.
 
-Then, [Hedy](https://github.com/Hedy88) said he wanted to do something with the base HTML. So made a repo for this.
+Then, [Hedy](https://github.com/Hedy88) said he wanted to do something with the base HTML. So i made a repo for this.
 
-[Billy](https://github.com/billygoat891) said he would help.
+[billygoat891](https://github.com/billygoat891) said he would help.
 
 Then, i made 2 branches, and billy made one.
 
