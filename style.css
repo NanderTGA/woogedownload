@@ -66,3 +66,7 @@ main {
     text-align: center;
     color:red
 }
+
+main > div {
+    text-align: center;
+}
