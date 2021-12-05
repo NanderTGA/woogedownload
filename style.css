@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-    background-color: #fff;
+    background: no-repeat linear-gradient(#efeff0, #cfcfcf);
     padding: 5px 7px;
     padding-bottom: 52px;
 }
