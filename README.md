@@ -9,7 +9,9 @@ The rest of this readme file was also written by him.
 
 This project was originally hosted on woogedownload.billygoat891.tk, but billy got rid of the subdomain.
 
-The project is now available [here](https://woogedownload.github.io)
+The project is now available [here](https://nandertga.github.io/woogedownload)
+
+There are also 479 ubuntu torrents stored [here](https://github.com/NanderTGA/woogedownload/tree/main/torrents).
 
 \- [NanderTGA](https://github.com/NanderTGA)
 
