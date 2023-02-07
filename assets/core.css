@@ -25,21 +25,17 @@ body {
 }
 
 .header a:hover {
-    float: left;
-    display: block;
-    color: black;
+    box-shadow: 2px 2px 2px gray;
+    border-radius: 5px;
     background: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
+    color: black;
 }
 
 img.header-logo {
     display: block;
     float: left;
-    width: 249px;
-    height: auto;
+    width: 48px;
+    height: 48px;
 }
 
 main {
