@@ -25,7 +25,7 @@ body {
 }
 
 .header a:hover {
-    box-shadow: 2px 2px 2px gray;
+    box-shadow: 2px 2px 2px #d4d4d4;
     border-radius: 5px;
     background: white;
     color: black;
