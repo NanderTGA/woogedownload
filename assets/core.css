@@ -4,28 +4,28 @@ body {
     font-family: 'Rubik', sans-serif;
 }
 @keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% { background: rgba(0,0,0,0); }
+  100% { background: white; }
 }
 
 @-moz-keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% { background: rgba(0,0,0,0); }
+  100% { background: white; }
 }
 
 @-webkit-keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% { background: rgba(0,0,0,0); }
+  100% { background: white; }
 }
 
 @-o-keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% { background: rgba(0,0,0,0); }
+  100% { background: white; }
 }
 
 @-ms-keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
+  0% { background: rgba(0,0,0,0); }
+  100% { background: white; }
 }
 .content {
     text-align: center;
@@ -52,11 +52,11 @@ body {
     border-radius: 5px;
     background: white;
     color: black;
-    animation: fadeIn 5s;
-   -webkit-animation: fadeIn 5s;
-   -moz-animation: fadeIn 5s;
-   -o-animation: fadeIn 5s;
-   -ms-animation: fadeIn 5s;
+    animation: fadeIn 1s;
+   -webkit-animation: fadeIn 1s;
+   -moz-animation: fadeIn 1s;
+   -o-animation: fadeIn 1s;
+   -ms-animation: fadeIn 1s;
 }
 
 img.header-logo {
