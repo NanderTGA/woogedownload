@@ -2,10 +2,16 @@
   "content": [
    {
      "name": "Sample",
-     "image": "https://media.discordapp.net/attachments/1013549674168340500/1072550991716692049/image.png",
+     "image": "https://raw.githubusercontent.com/PerisanCat/woogefiles/git/ad/img/placeholder.png",
      "description": "sample description",
      "pagename": "sample-test"
-   }
+   },
+   {
+     "name": "Sample 2",
+     "image": "https://raw.githubusercontent.com/PerisanCat/woogefiles/git/ad/img/placeholder.png",
+     "description": "sample description 2",
+     "pagename": "sample-test2"
+   }    
   ]
 }
  
