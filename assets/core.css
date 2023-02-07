@@ -40,7 +40,7 @@ body {
     100% {color: red;}
 }
 
-.a{
+a {
     animation: rainbow-color linear 10s infinite;
 }
 .content {
