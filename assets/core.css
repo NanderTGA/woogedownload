@@ -107,9 +107,3 @@ main > div {
     padding: 5px;
     width: 25%;
 }
-#content-box img {
-    float: left;
-}
-#content-box span, h1 {
-    float: right;
-}
