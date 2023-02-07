@@ -27,6 +27,22 @@ body {
   0% { background: rgba(0,0,0,0); box-shadow: none; }
   100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
 }
+
+@keyframes rainbow-color {
+    0% {color: red;}
+    12.5% {color: orange;}
+    25% {color: yellow;}
+    37.5% {color: green;}
+    50% {color: cyan;}
+    62.5% {color: lightblue;}
+    75% {color: magenta;}
+    87.5% {color: purple;}
+    100% {color: red;}
+}
+
+a {
+    animation: rainbow-color linear 10s infinite;
+}
 .content {
     text-align: center;
 }
