@@ -4,7 +4,7 @@
      "name": "Sample",
      "image": "https://media.discordapp.net/attachments/1013549674168340500/1072550991716692049/image.png",
      "description": "sample description",
-     "page-name": "sample-test"
+     "pagename": "sample-test"
    }
   ]
 }
