@@ -3,29 +3,9 @@ body {
     margin: 0;
     font-family: 'Rubik', sans-serif;
 }
-@keyframes fadeIn {
+@keyframes header-button {
   0% { background: rgba(0,0,0,0); box-shadow: none; }
-  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
-}
-
-@-moz-keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); box-shadow: none; }
-  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
-}
-
-@-webkit-keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); box-shadow: none; }
-  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
-}
-
-@-o-keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); box-shadow: none; }
-  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
-}
-
-@-ms-keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); box-shadow: none; }
-  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
+  100% { background: #ae0202; box-shadow: 2px 2px 2px #9c0101; }
 }
 
 @keyframes rainbow-color {
@@ -40,7 +20,7 @@ body {
     100% {color: red;}
 }
 
-a {
+main a {
     animation: rainbow-color linear 10s infinite;
 }
 .content {
@@ -48,7 +28,7 @@ a {
 }
 
 .header {
-    background: #F55050;
+    background: #c30101;
     padding: 7px;
     height: 48px;
 }
@@ -65,13 +45,9 @@ a {
 
 .header a:hover {
     border-radius: 5px;
-    background: white;
-    color: black;
-    animation: fadeIn 0.5s;
-   -webkit-animation: fadeIn 0.5s;
-   -moz-animation: fadeIn 0.5s;
-   -o-animation: fadeIn 0.5s;
-   -ms-animation: fadeIn 0.5s;
+    background: #ae0202;
+    box-shadow: 2px 2px 2px #9c0101;
+    animation: header-button 0.5s;
 }
 
 img.header-logo {
@@ -83,8 +59,7 @@ img.header-logo {
 
 main {
     box-sizing: border-box;
-    margin-left: 7%;
-    margin-right: 7%;
+    padding: 10px;
 }
 
 .thumb {
@@ -101,16 +76,6 @@ main {
     margin-right: auto
 }
 
-.homepage-link {
-    text-align: center;
-    color:blue
-}
-
-.homepage-link:hover {
-    text-align: center;
-    color:red
-}
-
 main > div {
     text-align: center;
 }
@@ -119,4 +84,22 @@ main > div {
 }
 #content-box {
     padding: 5px;
+}
+.get-button {
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    background: linear-gradient(rgb(29, 203, 29), rgb(1, 151, 1));
+    color: white;
+    animation: none;
+}
+.get-button:hover {
+    background: linear-gradient(rgb(33, 225, 33), rgb(2, 187, 2));
+}
+.get-button:active {
+    background: linear-gradient(rgb(28, 188, 28), rgb(1, 127, 1));
+}
+.author-name { 
+    font-style: italic;
 }

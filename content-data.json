@@ -5,13 +5,7 @@
      "image": "https://raw.githubusercontent.com/PerisanCat/woogefiles/git/ad/img/placeholder.png",
      "description": "sample description",
      "pagename": "sample-test"
-   },
-   {
-     "name": "Sample 2",
-     "image": "https://raw.githubusercontent.com/PerisanCat/woogefiles/git/ad/img/placeholder.png",
-     "description": "sample description 2",
-     "pagename": "sample-test2"
-   }    
+   }
   ]
 }
  
