@@ -4,28 +4,28 @@ body {
     font-family: 'Rubik', sans-serif;
 }
 @keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); }
-  100% { background: white; }
+  0% { background: rgba(0,0,0,0); box-shadow: none; }
+  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
 }
 
 @-moz-keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); }
-  100% { background: white; }
+  0% { background: rgba(0,0,0,0); box-shadow: none; }
+  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
 }
 
 @-webkit-keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); }
-  100% { background: white; }
+  0% { background: rgba(0,0,0,0); box-shadow: none; }
+  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
 }
 
 @-o-keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); }
-  100% { background: white; }
+  0% { background: rgba(0,0,0,0); box-shadow: none; }
+  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
 }
 
 @-ms-keyframes fadeIn {
-  0% { background: rgba(0,0,0,0); }
-  100% { background: white; }
+  0% { background: rgba(0,0,0,0); box-shadow: none; }
+  100% { background: white; box-shadow: 2px 2px 2px #d4d4d4; }
 }
 .content {
     text-align: center;
@@ -48,7 +48,6 @@ body {
 }
 
 .header a:hover {
-    box-shadow: 2px 2px 2px #d4d4d4;
     border-radius: 5px;
     background: white;
     color: black;
