@@ -4,6 +4,10 @@ body {
     font-family: 'Rubik', sans-serif;
 }
 
+.content {
+    text-align: center;
+}
+
 .header {
     background: #F55050;
     padding: 7px;
