@@ -1,6 +1,6 @@
-# ![](https://raw.githubusercontent.com/PerisanCat/woogefiles/git/img/logo.png)
+# ![](https://raw.githubusercontent.com/PerisanCat/woogefiles/git/assets/logo.png)
 
-## WoogeFiles
+## Woogefiles
 An open-source site for downloading files.
 
 ## Contributing
