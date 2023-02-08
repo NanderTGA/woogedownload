@@ -25,6 +25,7 @@ body {
 }
 main a {
     animation: rainbow-color linear 10s infinite;
+    text-decoration: none;
 }
 .content {
     text-align: center;
@@ -111,4 +112,7 @@ main > div {
 }
 .marquee {
     animation: marquee 20s linear infinite;
+}
+.thanks {
+    padding: 50px;
 }
