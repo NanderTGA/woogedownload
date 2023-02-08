@@ -103,6 +103,6 @@ main > div {
 .author-name { 
     font-style: italic;
 }
-main .all-content {
+.left {
    float: left;
 }
