@@ -11,6 +11,8 @@ This project was originally hosted on woogedownload.billygoat891.tk, but billy g
 
 The project is now available [here](https://nandertga.github.io/woogedownload)
 
+One of the devs also used this to make [his own download site](https://blackdownload.blackhorn.repl.co/). Beware of his bad HTML though.
+
 There are also 479 ubuntu torrents stored [here](https://github.com/NanderTGA/woogedownload/tree/main/torrents).
 
 \- [NanderTGA](https://github.com/NanderTGA)
