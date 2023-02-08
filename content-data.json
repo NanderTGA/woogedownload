@@ -2,13 +2,13 @@
   "content": [
    {
      "name": "Sample",
-     "image": "https://raw.githubusercontent.com/PerisanCat/woogefiles/git/ad/img/placeholder.png",
+     "image": "/woogefiles/ad/img/placeholder.png",
      "description": "sample description",
      "pagename": "example"
    },
    {
      "name": "Sampl2e",
-     "image": "https://raw.githubusercontent.com/PerisanCat/woogefiles/git/ad/img/placeholder.png",
+     "image": "/woogefiles/ad/img/placeholder.png",
      "description": "sa2mple description",
      "pagename": "examp2le"
    }
